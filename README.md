@@ -1,5 +1,5 @@
 # Gleb Gonchar
-- Stack: Go, Python, PostgreSQL, MongoDB, Linux, Docker, Git
+- Stack: Go, PostgreSQL, Linux, Docker, Git
 - Languages: English(Intermediate), Russian(Native)
 - Contacts: [LinkedIn](https://linkedin.com/in/gelerum), [Email](mailto:gelerum@gmail.com)
  
