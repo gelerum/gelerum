@@ -6,5 +6,5 @@ Languages: English(Intermediate), Russian(Native)
 
 Contacts: [LinkedIn](https://linkedin.com/in/gelerum), [Email](mailto:gelerum@gmail.com)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelerum&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelerum&layout=compact&theme=default)
 
