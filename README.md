@@ -1,5 +1,5 @@
 # Gleb Gonchar
-## I am a 16 year old student developing REST APIs
+## I am a 16 year old student
 Stack: Go, PostgreSQL, Redis, Linux, Docker, Git
 
 Languages: English(Intermediate), Russian(Native)
