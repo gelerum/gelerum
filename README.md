@@ -1,4 +1,4 @@
 # Gleb Gonchar
-18 year old student.
+18 years old.
 
 Wish love and linux, girls and whisky.
