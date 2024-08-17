@@ -35,11 +35,9 @@ l0JNP4IBAK7gcVOLHkMqU7wBbObm/XnmSOJudFbgMTNExhoLFzEB
 <details>
 
 <summary>GPG key fingerpint</summary>
+
 ```
 4988 7D8C 7838 E930 4E65  D51D 9D73 ED99 BCB6 4353
 ```
 
 </details>
-
-<details>
-
