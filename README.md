@@ -1,5 +1,8 @@
+<details>
+
 <summary>GPG public key</summary>
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZoZ9nxYJKwYBBAHaRw8BAQdACwiSbJkFnxi44oCr2wuHd6vGI8L7v91u9B9G
@@ -25,14 +28,16 @@ cjhIhCq95ofN+QPqF/V2LfbXRnL/APwIMXWcWZ2sJOFiBw2eZPsdRfYSWKjhiA3z
 l0JNP4IBAK7gcVOLHkMqU7wBbObm/XnmSOJudFbgMTNExhoLFzEB
 =V+DH
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
 </details>
 
 <details>
 
 <summary>GPG key fingerpint</summary>
-
+```
 4988 7D8C 7838 E930 4E65  D51D 9D73 ED99 BCB6 4353
+```
 
 </details>
 
