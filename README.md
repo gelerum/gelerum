@@ -1,43 +1,15 @@
-<details>
+# Hi there, I'm Gleb Gonchar 👋
 
-<summary>GPG public key</summary>
+**2nd year student at NSU Mechanics and Mathematics** | Novosibirsk, Russia | Open to work
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+### Let's connect!
 
-mDMEZoZ9nxYJKwYBBAHaRw8BAQdACwiSbJkFnxi44oCr2wuHd6vGI8L7v91u9B9G
-RvQ3sl20IEdsZWIgR29uY2hhciA8Z2VsZXJ1bUBnbWFpbC5jb20+iI4EExYKADYE
-CwkIBwQVCgkIBRYCAwEAAh4FAheAFiEESYh9jHg46TBOZdUdnXPtmby2Q1MFAmaG
-f1QCGwEACgkQnXPtmby2Q1MXwQEAoLpng1AE0/TxHIlVj010+XQ0aFy+AFbxvIQ6
-QSWjemgBAM8KVRBYwuQPJCn3t9ZZsifBczu4JJclr2NxhVeQSyQGuDMEZoZ/wBYJ
-KwYBBAHaRw8BAQdARayAikTwjZsG/3qCSV2NWp1vzE8TwGN+pyYYcrqIe9SI7wQY
-FgoAIBYhBEmIfYx4OOkwTmXVHZ1z7Zm8tkNTBQJmhn/AAhsCAIEJEJ1z7Zm8tkNT
-diAEGRYKAB0WIQTRRj1UpHyVYgNnElHY654zJ3S9JgUCZoZ/wAAKCRDY654zJ3S9
-Jif3AP0f4wbL0CeJp2bljT1hoxn/BGqKJ+qd6PRwv/BWhVaAtAEA+O7MLkacfwgO
-jYkMb7TvINOr/qnVSwIhavjG4EXMfw+JYAD/cmmaENtJw3sxn67gr+O8VI1KxBTQ
-Z/mpeShShQ0pzM4BAOlzVrK8TAnDuwrJQomo5QItiNj54CFCVyo5e2lC/5EMuDgE
-ZoZ/7BIKKwYBBAGXVQEFAQEHQIS0ffyeMDrDLBHnr1fSS4adoCzoe8f/BmOE+5i6
-I0l3AwEIB4h4BBgWCgAgFiEESYh9jHg46TBOZdUdnXPtmby2Q1MFAmaGf+wCGwwA
-CgkQnXPtmby2Q1OQmQD+JwXGBPMLq7XCbAcBVK+ieDLKhPVDGjHZgc7CAuzzj2UA
-/0jms7GPpwOySNPQNDMGAwkLmO3NmQ0a/gjkcDZvluMNuDMEZoaD4xYJKwYBBAHa
-Rw8BAQdAcT1bHi9yGY11A5yFpYpuKYXZ1OVMWXcj5O6eupfJlqiI7wQYFgoAIBYh
-BEmIfYx4OOkwTmXVHZ1z7Zm8tkNTBQJmhoXYAhsgAIF2IAQZFgoAHRYhBPjAspDl
-XGGzJecsizRlS6eo/aLgBQJmhoPjAAoJEDRlS6eo/aLgqnUBANcjpLtS4daPjH3O
-cjhIhCq95ofN+QPqF/V2LfbXRnL/APwIMXWcWZ2sJOFiBw2eZPsdRfYSWKjhiA3z
-2X5X3h7iBAkQnXPtmby2Q1MmcAD/UI5qoFeEPY4MlatuN6427pKXSfTyLOIEhkkI
-l0JNP4IBAK7gcVOLHkMqU7wBbObm/XnmSOJudFbgMTNExhoLFzEB
-=V+DH
------END PGP PUBLIC KEY BLOCK-----
-```
+**Contacts:**
 
-</details>
+- **Email**: [gelerum@gmail.com](mailto:gelerum@gmail.com)
+- **Telegram**: [@gelerum](https://t.me/gelerum)
+- **LinkedIn**: [linkedin.com/in/gelerum](https://linkedin.com/in/gelerum)
+- **GPG Key**: 
+  - Fingerprint: `49887D8C7838E9304E65D51D9D73ED99BCB64353`
 
-<details>
-
-<summary>GPG key fingerpint</summary>
-
-```
-4988 7D8C 7838 E930 4E65  D51D 9D73 ED99 BCB6 4353
-```
-
-</details>
+All my commits are signed with GPG.
