@@ -1,8 +1,4 @@
-# Hi there, I'm Gleb Gonchar 👋
-
 **2nd year student at NSU Mechanics and Mathematics** | Novosibirsk, Russia | Open to work
-
-### Let's connect!
 
 **Contacts:**
 
