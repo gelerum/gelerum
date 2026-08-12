@@ -1,4 +1,4 @@
-**2nd year student at NSU Mechanics and Mathematics** | Novosibirsk, Russia | Open to work
+**3rd year student at NSU Mechanics and Mathematics** | Novosibirsk, Russia | Open to work
 
 **Contacts:**
 
